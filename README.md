@@ -1,6 +1,4 @@
-# Jdbc_oracl
-
-<JdbcOraTest>　readme
+# JdbcOraTest
 
 Copyright (C)2021 Eiko Kurihara. 
 
