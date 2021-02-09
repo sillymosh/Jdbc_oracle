@@ -1,12 +1,9 @@
 # JdbcOraTest
 
-Copyright (C)2021 Eiko Kurihara. 
-
 ■バージョン
 1.0.0 2021/02/03
 
 ■作成者
-Eiko Kurihara
 http://imomocchi.wp.xdomain.jp/
 
 ■JdbcOraTestについて
